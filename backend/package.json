@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "description": "GraphQL Tutorial",
+  "main": "server.js",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.10.1",
+    "graphql": "^16.6.0"
+  }
+}
